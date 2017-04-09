@@ -50,7 +50,24 @@
 - Slideshare: https://www.slideshare.net/soreygarcia
 
 
-# Auto-Evaluación
+## OTROS RECURSOS RECOMENDADOS
+
+- Curso de Git: https://www.udemy.com/git-bash/
+- Curso Git: http://www.desarrolloweb.com/articulos/entiende-instala-configura-git.html
+- Curso Git: https://www.youtube.com/watch?v=NmbqlkLTOSI
+- Curso virtual de Java: https://www.edx.org/course/programacion-orientada-objetos-mexicox-upevipn02x
+- Java Frameworks: https://www.facebook.com/groups/javaframeworks/
+- Universidad Java: https://www.facebook.com/groups/universidadjava/
+- Proyectos y Procesos: https://www.facebook.com/groups/ProyectosProcesos/
+- Recursos de Programación: https://coderanch.com/
+- Recorrido de un arreglo: http://gcoronelc.blogspot.pe/2015/03/java-8-loop-through-array.html
+- Recorrido de un arreglo: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-un-arreglo_19.html
+- Recorrido de una lista: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-una-lista.html
+- Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
+- Código fuente: https://goo.gl/GRaOQg
+- DevCode: https://devcode.la/cursos/
+
+## AUTO-EVALUACIÓN
 
 - Enlace 1: http://cibertest.com/test-examen/11/java
 - Enlace 2: http://www.digitallearning.es/tests/java-poo.html
