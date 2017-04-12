@@ -1,4 +1,4 @@
-![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_JAVA_OO_005/master/JOO005.jpg)
+![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_JAVA_OO_005/master/JOO005A.jpg)
 
 # JAVA ORIENTADO A OBJETOS
 
