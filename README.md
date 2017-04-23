@@ -9,6 +9,7 @@
 - Horario: Sabados de 8 a 13 Horas
 - Inicio: 16-MAY-2017
 - Página: https://gcoronelc.github.io/CEPSUNI_JAVA_OO_005/
+- Contenido: http://www.ceps.uni.edu.pe/doc_web/programas/programacion/progra_orienta_obje_java.html
 - Código fuente: https://goo.gl/GRaOQg
 
 
